@@ -27,4 +27,12 @@ Azure Container Instances (ACI) is a serverless container service that allows us
 2. Check the status if its running
 3. Copy the FQDN and paste into a browse: mycontainerdnsxxxxx.crhmhvakacfrhrhm.eastus.azurecontainer.io
 4. You will see the pop up welcoming you to Azure Container Instances
+
+
+
+
+
+
+
+
 5. ![image](https://github.com/Rammyore007/Azure-Container-Instance/assets/145805366/244473e0-968b-45ab-b611-1a2eb47f6cdd)
